@@ -1,0 +1,197 @@
+.NewContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.NewContainer2{
+    width: 90%;
+}
+/* ///////////////////////////////////////////////////////////// */
+
+.heading{
+    color: rgb(80, 80, 80);
+    font-weight: bold; 
+    margin-bottom: 5px;
+}
+
+.JobDetailsDivPage2{
+    margin-bottom: 50px;
+    border-bottom: 1px solid rgb(200, 200, 200);
+    padding-bottom: 50px;
+  }
+  .JobTitle {
+    font-weight: 550;
+    color: rgb(50, 50, 50);
+    font-size: 23px;
+  }
+
+  .JobSubTitleDiv {
+    margin-bottom: -20px;
+
+  }
+  .JobSubTitlePage2 {
+    font-size: 30px;
+    font-weight: 560;
+    color: rgb(60, 60, 60);
+  }
+  
+  .Location-FullTime-Div {
+    display: flex;
+    flex-direction: row;
+    margin-top: -5px;
+    color: rgb(60, 60, 60);
+  }
+  .left-icons{
+      margin-right: 5px;
+  }
+  .FullTimeDiv{
+      align-items: center;
+      justify-content: center;
+      margin-left: 15px;
+  }
+  .JobDescPara{
+      margin-right: 20px;
+  }
+  .FullTime {
+    background-color: rgb(204, 212, 240);
+   width: 90px;
+  color: rgb(66, 66, 66);
+   border-radius: 3px;
+   font-size: 12px;
+   font-weight: 550;
+  padding: 2px;
+  padding-top: 2px;
+  text-align: center;
+  margin-top: 2px;
+  }
+  .ApplyButtonDiv{
+      margin-top: 20px;
+  }
+  .ApplyButton{
+    color: white;
+    font-weight: bold;
+    border: 1px solid rgba(37, 145, 233, 0.863);
+    border-radius: 50px;
+    padding: 6px;
+    width: 160px;
+    text-align: center;
+    font-size: 13px;
+   margin-right: 30px;
+   background-color:rgba(37, 145, 233, 0.863) ;
+  }
+
+  /* ////////////////////////////////// */
+
+  .MainDivisionRow{
+      display: flex;
+      flex-direction:row;
+  }
+
+  .LookinForMainDiv{
+      width: 75%;
+      margin-right: 50px;
+  }
+
+  .OtherJobMainDiv_ShareJob{
+    flex: 1;
+    width: 25%;
+  }
+
+  .OtherJobMainDiv{
+    background-color:rgba(225, 235, 241, 0.877) ;
+    padding: 20px;
+    border: 1px solid rgb(215,215,215) ;
+    padding-bottom: 50px;
+}
+
+
+  .LookingForP1{
+      font-size: 28px;
+      margin-bottom: 5px;
+      font-weight: 500;
+      color: rgb(50, 50, 50);
+  }
+
+  .Requirement1{
+      font-size: 24px;
+      margin-bottom: 5px;
+      font-weight:500;
+  }
+
+  .Bonus1{
+      font-size: 24px;
+      margin-bottom: 5px;
+      font-weight:500;
+  }
+  .linePage2 {
+    border-bottom: 5px solid rgba(37, 145, 233, 0.863);
+    width: 70px;
+    
+  }
+  
+  .OtherJob{
+    font-size: 21px;
+    margin-bottom: 5px;
+    font-weight:550;
+    color: rgb(30, 30, 30);
+  }
+  .OtherJobSubPage2{
+      font-size: 19px;
+      font-weight: 550;
+      color: rgb(30, 30, 30);
+      margin-bottom: 9px;
+  }
+
+  .JobDescPara2{
+    margin-right: 15px;
+    font-size: 14px;
+}
+.JobDescParaLocation2{
+    font-size: 14px;
+}
+
+/* ///////////////////// */
+
+.ShareJobDiv{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.ShareJobPara{
+    font-size: 21px;
+    margin-bottom: 5px;
+    font-weight:550;
+    color: rgb(30, 30, 30);
+}
+
+.ImageDiv{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.ImageSubDiv{
+    border: 1px solid black;
+    border-radius: 50%;
+    padding: 8px;
+    margin-right: 15px;
+}
+
+img{
+    height: 20px;
+    width: 23px;
+}
+.LocationIcon2{
+    color: rgb(120, 120, 120);
+    font-size: 20px;
+    margin-top: -5px;
+  }
+  .LocationIcon3{
+    color: rgb(120, 120, 120);
+    font-size: 18px;
+    margin-top: -2px;
+  }
+  .new_icons_page2{
+      margin-right: 5px;
+  }
